@@ -9,6 +9,9 @@ def confirmation():
     elif confirmation_input.lower() == "no" or confirmation_input == "n":
         print("The program will now exit.")
         sys.exit()
+    else:
+        print("Sorry, that was not understood. Please try again.")
+        confirmation()
 
 
 confirmation()
@@ -38,7 +41,7 @@ cot = "cot = " + adjacent + "/" + opposite
 
 # Gives the user the data they want based off the data provided:
 def answers():
-    answers_input = input("Which trig function would you like to find?")
+    answers_input = input("\nWhich trig function would you like to find?")
     if answers_input.lower() == "sin" or answers_input.lower() == "sine":
         print(sin)
         again()
@@ -75,7 +78,6 @@ def again():
 
 answers()
 
-# Version 1.0.0 Release Notes:
-# 1. Created basic functional calculator
-# 2. Implemented methods to catch wrong input
-# 3. Added visual aid to visualize triangle
+# Version 1.0.1 Release Notes:
+# 1. Added else statement to repeat the confirmation until the user inputs an answer the program will understand
+# 2. Improved spacing for prompts
