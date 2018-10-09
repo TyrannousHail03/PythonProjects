@@ -27,10 +27,6 @@ hypotenuse = input("Enter the value of the hypotenuse (Side C): ")
 adjacent = input("Enter the value of the side adjacent to the angle you are solving for: ")
 opposite = input("Enter the value of the opposite side to the angle you are solving for: ")
 
-hypotenuse = hypotenuse
-adjacent = adjacent
-opposite = opposite
-
 sin = "sin = " + opposite + "/" + hypotenuse
 cos = "cos = " + adjacent + "/" + hypotenuse
 tan = "tan = " + opposite + "/" + adjacent
@@ -78,6 +74,5 @@ def again():
 
 answers()
 
-# Version 1.0.1 Release Notes:
-# 1. Added else statement to repeat the confirmation until the user inputs an answer the program will understand
-# 2. Improved spacing for prompts
+# Version 1.0.2 Release Notes:
+# 1. Removed unecessary code
