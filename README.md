@@ -1,2 +1,4 @@
 # PythonProjects
-Just some random python projects I did. All of them are personal for fun projects. And pretty simple.
+A collection of various Python 3.x scripts for various tasks.
+
+[6 Trig Function Calculator.py](./6 Trig Function Calculator.py) - A calculator for the six basic Trigonometric Functions given input on the three sides of a theoretical triangle. 
