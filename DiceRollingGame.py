@@ -1,5 +1,5 @@
-'''This program rolls a pair of dice and asks the user to guess the sum of the dice. If the user guesses correctly, they win.
-   This program was initially written during my run through of CodeAcademy's Python course.'''
+'''This program rolls a pair of dice and asks the user to guess the sum of the dice. If the user guesses correctly, they
+   win. his program was initially written during my run through of CodeAcademy's Python course.'''
 
 from random import randint
 from time import sleep
