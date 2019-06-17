@@ -17,6 +17,7 @@ Standalone scripts for simplifying and automating various tasks:
 
 [Hash_Checker.py](./Hash_Checker.py) - Compares two hashes to see if they match exactly in lowercase form. 
 
+-----
 ## Small Projects
 A series of small projects for various certain tasks.
 
