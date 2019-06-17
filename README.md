@@ -2,7 +2,7 @@
 A collection of various Python 3.x projects and scripts for various tasks.
 
 -----
-## Short Scripts
+## Standalone Scripts
 Standalone scripts for simplifying and automating various tasks:
 
 [6TFC.py](./6TFC.py) - A calculator for the six basic Trigonometric Functions given input on the three sides of a theoretical triangle. 
