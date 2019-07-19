@@ -19,7 +19,7 @@ Standalone scripts for simplifying and automating various tasks:
 
 -----
 ## Small Projects
-A series of small projects for various certain tasks.
+A series of small projects for various tasks.
 
 ### 1. Basic Geometry Calculator
 Allows for the calculation of various simple Geometric measurements.
